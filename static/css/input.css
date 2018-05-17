@@ -1,0 +1,16 @@
+input[type='text']{
+  /*height: 30px;*/
+  /*width: 200px;*/
+  border: gray solid 1px;
+  border-radius: 2px;
+}
+input[type='password']{
+  /*height: 30px;*/
+  /*width: 200px;*/
+  border: gray solid 1px;
+  border-radius: 5px;
+}
+/* radio单选框 */
+.starts{
+  margin-right: 15px;
+}

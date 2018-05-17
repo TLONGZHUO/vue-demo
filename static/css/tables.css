@@ -1,0 +1,44 @@
+table tr:nth-child(even){
+  background: #dff0d8;
+}
+table tr:nth-child(even){
+  background: #f7ecb5;
+}
+table tr:nth-child:hover(even){
+  background: #afd9ee;
+}
+table a{
+  margin-right: 10px;
+  text-decoration: none;
+  color: indianred;
+}
+table a:hover{
+  text-decoration: none;
+  color:blue;
+}
+table thead tr{
+  background-color: #f2dede;
+  color: red;
+}
+table tfoot tr{
+  background-color: pink;
+}
+caption{
+  background-color: #f2dede;
+}
+.one{
+  width: 200px;
+}
+tfoot button{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+tbody button{
+  margin-right: 10px;
+}
+select{
+  height: 25px;
+  margin-right: 5px;
+}
+
+
